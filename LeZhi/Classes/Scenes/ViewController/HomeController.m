@@ -57,7 +57,7 @@
     self.tabBar.translucent = NO;
     
     self.viewControllers = tabBarArray;
-    
+
 }
 
 - (void)didReceiveMemoryWarning {
